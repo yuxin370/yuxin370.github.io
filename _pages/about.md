@@ -8,15 +8,20 @@ redirect_from:
 ---
 
 Yuxin Tang is a Master Student at [Key Laboratory of Data Engineering and Knowledge Engineering](http://deke.ruc.edu.cn/) and [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). She’s currently working with Prof. [Feng Zhang](https://fengzhangcs.github.io/). Her research focuces on Compression, Database Systems, and High Performance Computing (HPC). 
+Renmin University of China, Master of Computer Science
+
+## EDUCATION
+ -  Sept 2024- Present, Renmin University of China, Master of Computer Science
+ -  Sept 2020- June 2024, Renmin University of China, Bachelor of Computer Science
 
 ## PUBLICATIONS
- - [VLDB’25 (revision)] “Improving Time Series Data Compression in Apache IoTDB”; **Yuxin Tang**, Feng Zhang,
+ - **[VLDB’25 (revision)]** “Improving Time Series Data Compression in Apache IoTDB”, **Yuxin Tang**, Feng Zhang,
  Jiawei Guan, Yuan Tian, Xiangdong Huang, Chen Wang, Jianmin Wang, Xiaoyong Du. International Conference
  on Very Large Data Bases (VLDB), 2025.
- - [VLDB’24 (demo)] “HocoPG: A Database System with Homomorphic Compression for Text Processing”; Jiawei
+ - **[VLDB’24 (demo)]** “HocoPG: A Database System with Homomorphic Compression for Text Processing”, Jiawei
  Guan, Feng Zhang, **Yuxin Tang**, Weitang Ye, Xiaoyong Du. International Conference on Very Large Data Bases
  (VLDB), 2024, Demo track.
- - [IJAR’24 ] “Fuzzy Rough Unlearning Model for Feature Selection”; **Yuxin Tang**, Suyun Zhao, Hong Chen,
+ - **[IJAR’24 ]** “Fuzzy Rough Unlearning Model for Feature Selection”; **Yuxin Tang**, Suyun Zhao, Hong Chen,
  Cuiping Li, Junhai Zhai, Qiangjun Zhou. International Journal of Approximate Reasoning (IJAR), 2024.
 
 ## HONORS
