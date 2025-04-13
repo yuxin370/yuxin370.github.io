@@ -7,8 +7,8 @@ redirect_from:
   - /yuxintang.html
 ---
 
-Yuxin Tang is a Master Student at [Key Laboratory of Data Engineering and Knowledge Engineering](http://deke.ruc.edu.cn/) and [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). She’s currently working with Prof. [Feng Zhang](https://fengzhangcs.github.io/). Her research focuces on Compression, Database Systems, and High Performance Computing (HPC). 
-Renmin University of China, Master of Computer Science
+Yuxin Tang is a Master Student at [Key Laboratory of Data Engineering and Knowledge Engineering](http://deke.ruc.edu.cn/) and [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). She’s currently working with Prof. [Feng Zhang](https://fengzhangcs.github.io/). Her research focuces on Compression, Database Systems, and GPU acceleration. 
+
 
 ## Education
  -  Sept 2024- Present, Renmin University of China, Master in Computer Science
