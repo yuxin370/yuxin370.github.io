@@ -3,18 +3,18 @@ permalink: /
 title: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /yuxintang/
+  - /yuxintang.html
 ---
 
 Yuxin Tang is a Master Student at [Key Laboratory of Data Engineering and Knowledge Engineering](http://deke.ruc.edu.cn/) and [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). She’s currently working with Prof. [Feng Zhang](https://fengzhangcs.github.io/). Her research focuces on Compression, Database Systems, and High Performance Computing (HPC). 
 Renmin University of China, Master of Computer Science
 
-## EDUCATION
+## Education
  -  Sept 2024- Present, Renmin University of China, Master of Computer Science
  -  Sept 2020- June 2024, Renmin University of China, Bachelor of Computer Science
 
-## PUBLICATIONS
+## Publications
  - **[VLDB’25 (revision)]** “Improving Time Series Data Compression in Apache IoTDB”, **Yuxin Tang**, Feng Zhang,
  Jiawei Guan, Yuan Tian, Xiangdong Huang, Chen Wang, Jianmin Wang, Xiaoyong Du. International Conference
  on Very Large Data Bases (VLDB), 2025.
@@ -24,7 +24,7 @@ Renmin University of China, Master of Computer Science
  - **[IJAR’24 ]** “Fuzzy Rough Unlearning Model for Feature Selection”; **Yuxin Tang**, Suyun Zhao, Hong Chen,
  Cuiping Li, Junhai Zhai, Qiangjun Zhou. International Journal of Approximate Reasoning (IJAR), 2024.
 
-## HONORS
+## Honors
  - Outstanding Graduates, Beijing, China, 2024
  - Special Scholarship for Outstanding Academic Achievement, 2023
  - Huawei Scholarship, Renmin University of China, 2023
