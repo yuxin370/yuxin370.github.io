@@ -9,7 +9,7 @@ redirect_from:
 
 Yuxin Tang is a Master Student at [Key Laboratory of Data Engineering and Knowledge Engineering](http://deke.ruc.edu.cn/) and [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). She’s currently working with Prof. [Feng Zhang](https://fengzhangcs.github.io/). Her research focuces on Compression, Database Systems, and High Performance Computing (HPC). 
 
- ## PUBLICATIONS
+## PUBLICATIONS
  - [VLDB’25 (revision)] “Improving Time Series Data Compression in Apache IoTDB”; **Yuxin Tang**, Feng Zhang,
  Jiawei Guan, Yuan Tian, Xiangdong Huang, Chen Wang, Jianmin Wang, Xiaoyong Du. International Conference
  on Very Large Data Bases (VLDB), 2025.
