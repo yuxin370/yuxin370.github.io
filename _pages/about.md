@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /yuxintang/
   - /yuxintang.html
