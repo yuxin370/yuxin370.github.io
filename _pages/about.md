@@ -11,7 +11,7 @@ Yuxin Tang is a Master Student at [Key Laboratory of Data Engineering and Knowle
 Renmin University of China, Master of Computer Science
 
 ## Education
- -  Sept 2024- Present, Renmin University of China, Master of Computer Science
+ -  Sept 2024- Present, Renmin University of China, Master in Computer Science
  -  Sept 2020- June 2024, Renmin University of China, Bachelor of Computer Science
 
 ## Publications
@@ -20,7 +20,7 @@ Renmin University of China, Master of Computer Science
  on Very Large Data Bases (VLDB), 2025.
  - **[VLDB’24 (demo)]** “HocoPG: A Database System with Homomorphic Compression for Text Processing”, Jiawei
  Guan, Feng Zhang, **Yuxin Tang**, Weitang Ye, Xiaoyong Du. International Conference on Very Large Data Bases
- (VLDB), 2024, Demo track.
+ (VLDB), 2024, demo track.
  - **[IJAR’24 ]** “Fuzzy Rough Unlearning Model for Feature Selection”; **Yuxin Tang**, Suyun Zhao, Hong Chen,
  Cuiping Li, Junhai Zhai, Qiangjun Zhou. International Journal of Approximate Reasoning (IJAR), 2024.
 
