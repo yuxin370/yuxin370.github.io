@@ -15,7 +15,7 @@ Yuxin Tang is a Master Student at [Key Laboratory of Data Engineering and Knowle
  -  Sept 2020- June 2024, Renmin University of China, Bachelor of Computer Science
 
 ## Publications
- - **[VLDB’25 (revision)]** “Improving Time Series Data Compression in Apache IoTDB”, **Yuxin Tang**, Feng Zhang,
+ - **[VLDB’25 ]** “Improving Time Series Data Compression in Apache IoTDB”, **Yuxin Tang**, Feng Zhang,
  Jiawei Guan, Yuan Tian, Xiangdong Huang, Chen Wang, Jianmin Wang, Xiaoyong Du. International Conference
  on Very Large Data Bases (VLDB), 2025.
  - **[VLDB’24 (demo)]** “HocoPG: A Database System with Homomorphic Compression for Text Processing”, Jiawei
