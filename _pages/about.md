@@ -11,8 +11,9 @@ Yuxin Tang is a Master Student at [Key Laboratory of Data Engineering and Knowle
 
 
 ## Education
- -  Sept 2024- Present, Renmin University of China, Master in Computer Science
- -  Sept 2020- June 2024, Renmin University of China, Bachelor of Computer Science
+ -  Mar. 2026 – Present, CWI, Visiting PhD Student
+ -  Sept 2024 - Present, Renmin University of China, Master in Computer Science
+ -  Sept 2020 - June 2024, Renmin University of China, Bachelor of Computer Science
 
 ## Publications
  - **[VLDB’25 ]** “Improving Time Series Data Compression in Apache IoTDB”, **Yuxin Tang**, Feng Zhang,
@@ -25,6 +26,7 @@ Yuxin Tang is a Master Student at [Key Laboratory of Data Engineering and Knowle
  Cuiping Li, Junhai Zhai, Qiangjun Zhou. International Journal of Approximate Reasoning (IJAR), 2024.
 
 ## Honors
+ - BYD Scholarship, 2025
  - Outstanding Graduates, Beijing, China, 2024
  - Special Scholarship for Outstanding Academic Achievement, 2023
  - Huawei Scholarship, Renmin University of China, 2023
