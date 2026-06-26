@@ -58,19 +58,20 @@
       <p>
         {{ post.authors | default: post.citation }}
         {% if post.venue %}<br /><i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}{% endif %}
-        {% if post.paperurl %}<br /><a href="{{ post.paperurl }}">Paper</a>{% endif %}
-        {% if post.codeurl %}{% if post.paperurl %} | {% else %}<br />{% endif %}<a href="{{ post.codeurl }}">Code</a>{% endif %}
+        {% if post.paperurl or post.codeurl %}
+          <br />{% if post.paperurl %}<a href="{{ post.paperurl }}">Paper</a>{% endif %}{% if post.codeurl %}{% if post.paperurl %} <span class="pub-link-separator">|</span> {% endif %}<a href="{{ post.codeurl }}">Code</a>{% endif %}
+        {% endif %}
       </p>
     {% elsif post.citation and post.paperurl and post.slidesurl and post.bibtexurl %}
-      <p>{{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+      <p>{{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a>, <a href="{{ post.slidesurl }}">Download Slides</a>, <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% elsif post.citation and post.paperurl and post.slidesurl %}
-      <p>{{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
+      <p>{{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a>, <a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.citation and post.paperurl and post.bibtexurl %}
-      <p>{{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+      <p>{{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a>, <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% elsif post.citation and post.paperurl %}
       <p>{{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
     {% elsif post.citation and post.slidesurl and post.bibtexurl %}
-      <p>{{ post.citation }}<br /><a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl}}">Download Bibtex</a></p>
+      <p>{{ post.citation }}<br /><a href="{{ post.slidesurl }}">Download Slides</a>, <a href="{{ post.bibtexurl}}">Download Bibtex</a></p>
     {% elsif post.citation and post.slidesurl %}
       <p>{{ post.citation }}<br /><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.citation and post.bibtexurl %}
@@ -78,11 +79,11 @@
     {% elsif post.citation %}
       <p>{{ post.citation }}</p>
     {% elsif post.paperurl and post.bibtexurl %}
-      <p><a href=" {{ post.paperurl }} ">Download Paper</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+      <p><a href=" {{ post.paperurl }} ">Download Paper</a>, <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% elsif post.paperurl %}
       <p><a href=" {{ post.paperurl }} ">Download Paper</a></p>
     {% elsif post.slidesurl and post.bibtexurl %}
-      <p><a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+      <p><a href="{{ post.slidesurl }}">Download Slides</a>, <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% elsif post.slidesurl %}
       <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.bibtexurl %}

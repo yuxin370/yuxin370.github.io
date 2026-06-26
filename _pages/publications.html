@@ -30,7 +30,7 @@ This page lists my publications in database systems, data compression, and relat
           {{ post.authors }}<br />
           <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}<br />
           {% if post.paperurl %}<a href="{{ post.paperurl }}">Paper</a>{% endif %}
-          {% if post.codeurl %}{% if post.paperurl %} | {% endif %}<a href="{{ post.codeurl }}">Code</a>{% endif %}
+          {% if post.codeurl %}{% if post.paperurl %} <span class="pub-link-separator">|</span> {% endif %}<a href="{{ post.codeurl }}">Code</a>{% endif %}
         </p>
       </div>
     {% endfor %}
@@ -43,7 +43,7 @@ This page lists my publications in database systems, data compression, and relat
         {{ post.authors }}<br />
         <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}<br />
         {% if post.paperurl %}<a href="{{ post.paperurl }}">Paper</a>{% endif %}
-        {% if post.codeurl %}{% if post.paperurl %} | {% endif %}<a href="{{ post.codeurl }}">Code</a>{% endif %}
+        {% if post.codeurl %}{% if post.paperurl %} <span class="pub-link-separator">|</span> {% endif %}<a href="{{ post.codeurl }}">Code</a>{% endif %}
       </p>
     </div>
   {% endfor %}
