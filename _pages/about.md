@@ -30,7 +30,7 @@ My research interests lie in database systems, data compression, and GPU acceler
 
 
 ## Activities
-- **DBDBD 2026.** “FastLanes for ML: GPU Decoding with PyTorch Images”, **Yuxin Tang**, Feng Zhang, Peter Boncz. CWI, Amsterdam, The Netherlands. [abstract](https://dbdbd2025.uantwerpen.be/wp-content/uploads/2025/12/dbdbd25_17.pdf)
+- **DBDBD 2025** “FastLanes for ML: GPU Decoding with PyTorch Images”, **Yuxin Tang**, Feng Zhang, Peter Boncz. CWI, Amsterdam, The Netherlands. [abstract](https://dbdbd2025.uantwerpen.be/wp-content/uploads/2025/12/dbdbd25_17.pdf)
 
 ## Honors and Awards
 - BYD Scholarship, 2025
