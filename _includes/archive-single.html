@@ -79,6 +79,9 @@
     {% elsif post.bibtexurl %}
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% endif %}
+    {% if post.codeurl %}
+      <p><a href="{{ post.codeurl }}">Code</a></p>
+    {% endif %}
 
   </article>
 </div>

@@ -66,32 +66,32 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://yuxin370.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Enabling Efficient Update on Rule-Based Compressed Graph",
+      "publisher": "Proceedings of the ACM on Management of Data (SIGMOD)",
+      "releaseDate": "2026-06-01",
+      "website": "https://dl.acm.org/doi/epdf/10.1145/3786646",
+      "summary": "Feng Lin, Feng Zhang, Zheng Chen, Yuxin Tang, Jiawei Guan, Xiaoyong Zhu, and Xiaoyong Du."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://yuxin370.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Improving Time Series Data Compression in Apache IoTDB",
+      "publisher": "International Conference on Very Large Data Bases (VLDB)",
+      "releaseDate": "2025-08-01",
+      "website": "https://github.com/yuxin370/CompressIoTDB",
+      "summary": "Yuxin Tang, Feng Zhang, Jiawei Guan, Yuan Tian, Xiangdong Huang, Chen Wang, Jianmin Wang, and Xiaoyong Du."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://yuxin370.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "HocoPG: A Database System with Homomorphic Compression for Text Processing",
+      "publisher": "International Conference on Very Large Data Bases (VLDB), Demo Track",
+      "releaseDate": "2024-08-01",
+      "website": "https://www.vldb.org/pvldb/vol17/p4477-guan.pdf",
+      "summary": "Jiawei Guan, Feng Zhang, Yuxin Tang, Weitang Ye, and Xiaoyong Du."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://yuxin370.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Fuzzy Rough Unlearning Model for Feature Selection",
+      "publisher": "International Journal of Approximate Reasoning (IJAR)",
+      "releaseDate": "2024-01-01",
+      "website": "https://dl.acm.org/doi/10.1016/j.ijar.2023.109102",
+      "summary": "Yuxin Tang, Suyun Zhao, Hong Chen, Cuiping Li, Junhai Zhai, and Qiangjun Zhou."
     }
   ],
   "presentations": [
