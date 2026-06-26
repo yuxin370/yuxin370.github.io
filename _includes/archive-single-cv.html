@@ -40,7 +40,8 @@
     {% endif %}
     {% if post.venue%}
       <p class="archive__item-excerpt" itemprop="description">
-        {{ post.citation }}
+        {{ post.authors | default: post.citation }}
+        {% if post.venue %}<br /><i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}{% endif %}
         {% if post.paperurl %}<br /><a href="{{ post.paperurl }}">Paper</a>{% endif %}
         {% if post.codeurl %}{% if post.paperurl %} | {% else %}<br />{% endif %}<a href="{{ post.codeurl }}">Code</a>{% endif %}
       </p>

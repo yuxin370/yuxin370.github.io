@@ -27,7 +27,8 @@ This page lists my publications in database systems, data compression, and relat
       <div class="publication-item">
         <p>
           <strong>{{ post.title }}</strong><br />
-          {{ post.citation }}<br />
+          {{ post.authors }}<br />
+          <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}<br />
           {% if post.paperurl %}<a href="{{ post.paperurl }}">Paper</a>{% endif %}
           {% if post.codeurl %}{% if post.paperurl %} | {% endif %}<a href="{{ post.codeurl }}">Code</a>{% endif %}
         </p>
@@ -39,11 +40,11 @@ This page lists my publications in database systems, data compression, and relat
     <div class="publication-item">
       <p>
         <strong>{{ post.title }}</strong><br />
-        {{ post.citation }}<br />
+        {{ post.authors }}<br />
+        <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}<br />
         {% if post.paperurl %}<a href="{{ post.paperurl }}">Paper</a>{% endif %}
         {% if post.codeurl %}{% if post.paperurl %} | {% endif %}<a href="{{ post.codeurl }}">Code</a>{% endif %}
       </p>
     </div>
   {% endfor %}
 {% endif %}
-
