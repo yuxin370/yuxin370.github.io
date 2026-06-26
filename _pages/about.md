@@ -20,7 +20,7 @@ My research interests lie in database systems, data compression, and GPU acceler
 
 ## Education
 - Sept. 2026 – Present: Ph.D. in Computer Science, Renmin University of China
-- Mar. 2026 – Jun. 2026: Visiting PhD Student, CWI, Amsterdam, The Netherlands
+- Mar. 2026 – Jun. 2026: Visiting Student, CWI, Amsterdam, The Netherlands
 - Sept. 2024 – Jun. 2026: M.S. in Computer Science, Renmin University of China
 - Sept. 2020 – Jun. 2024: B.S. in Computer Science, Renmin University of China
 
