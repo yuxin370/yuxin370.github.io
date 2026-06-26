@@ -25,8 +25,8 @@ My research interests lie in database systems, data compression, and GPU acceler
 - Sept. 2020 – Jun. 2024: B.S. in Computer Science, Renmin University of China
 
 ## Selected Work
-- **Time-series compression in Apache IoTDB.** I work on improving compression techniques for time-series data management systems, with a focus on storage efficiency and practical integration in Apache IoTDB. [paper](https://www.vldb.org/pvldb/vol18/p3406-tang.pdf) [code](https://github.com/yuxin370/CompressIoTDB)
-- **Homomorphic compression for text processing.** I contributed to HocoPG, a database system that supports text processing over homomorphically compressed data. [paper](https://www.vldb.org/pvldb/vol17/p4477-guan.pdf) [code](https://github.com/yuxin370/postgres)
+- **Time-series compression in Apache IoTDB.** I work on improving compression techniques for time-series data management systems, with a focus on storage efficiency and practical integration in Apache IoTDB. [paper](https://www.vldb.org/pvldb/vol18/p3406-tang.pdf) | [code](https://github.com/yuxin370/CompressIoTDB)
+- **Homomorphic compression for text processing.** I contributed to HocoPG, a database system that supports text processing over homomorphically compressed data. [paper](https://www.vldb.org/pvldb/vol17/p4477-guan.pdf) | [code](https://github.com/yuxin370/postgres)
 
 
 ## Activities
