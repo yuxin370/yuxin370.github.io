@@ -16,7 +16,6 @@ Yuxin Tang is a Master Student at [Key Laboratory of Data Engineering and Knowle
  -  Sept 2020 - June 2024, Renmin University of China, Bachelor of Computer Science
 
 ## Publications
- - **[VLDB’26 ]** “Enabling Efficient Update on Rule-Based Compressed Graph”, Feng Lin, Feng Zhang, Zheng Chen, **Yuxin Tang**, Jiawei Guan, Xiaoyong Zhu, Xiaoyong Du. Proceedings of the ACM on Management of Data (SIGMOD), 2026.  [paper](https://dl.acm.org/doi/epdf/10.1145/3786646)
  - **[SIGMOD’26 ]** “Enabling Efficient Update on Rule-Based Compressed Graph”, Feng Lin, Feng Zhang, Zheng Chen, **Yuxin Tang**, Jiawei Guan, Xiaoyong Zhu, Xiaoyong Du. Proceedings of the ACM on Management of Data (SIGMOD), 2026.  [paper](https://dl.acm.org/doi/epdf/10.1145/3786646)
  - **[VLDB’25 ]** “Improving Time Series Data Compression in Apache IoTDB”, **Yuxin Tang**, Feng Zhang, Jiawei Guan, Yuan Tian, Xiangdong Huang, Chen Wang, Jianmin Wang, Xiaoyong Du. International Conference on Very Large Data Bases (VLDB), 2025. [paper]() [code](https://github.com/yuxin370/CompressIoTDB)
  - **[VLDB’24 (demo)]** “HocoPG: A Database System with Homomorphic Compression for Text Processing”, Jiawei Guan, Feng Zhang, **Yuxin Tang**, Weitang Ye, Xiaoyong Du. International Conference on Very Large Data Bases (VLDB), 2024, demo track. [paper](https://www.vldb.org/pvldb/vol17/p4477-guan.pdf) [code](https://github.com/yuxin370/postgres)
