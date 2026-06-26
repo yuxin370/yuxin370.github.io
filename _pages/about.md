@@ -12,10 +12,10 @@ I am a PhD student in Computer Science at the [Key Laboratory of Data Engineerin
 My research interests lie in database systems, data compression, and GPU acceleration. I am particularly interested in building efficient compression and execution techniques for data-intensive systems.
 
 
-## Research Interests
+<!-- ## Research Interests
 - Database systems
 - Data compression
-- GPU acceleration and high-performance data processing
+- GPU acceleration and high-performance data processing -->
 
 
 ## Education
