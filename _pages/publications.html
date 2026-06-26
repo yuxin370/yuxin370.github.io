@@ -13,7 +13,6 @@ author_profile: true
 
 This page lists my publications in database systems, data compression, and related areas.
 
-<!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
@@ -25,13 +24,26 @@ This page lists my publications in database systems, data compression, and relat
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      <div class="publication-item">
+        <p>
+          <strong>{{ post.title }}</strong><br />
+          {{ post.citation }}<br />
+          {% if post.paperurl %}<a href="{{ post.paperurl }}">Paper</a>{% endif %}
+          {% if post.codeurl %}{% if post.paperurl %} | {% endif %}<a href="{{ post.codeurl }}">Code</a>{% endif %}
+        </p>
+      </div>
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+    <div class="publication-item">
+      <p>
+        <strong>{{ post.title }}</strong><br />
+        {{ post.citation }}<br />
+        {% if post.paperurl %}<a href="{{ post.paperurl }}">Paper</a>{% endif %}
+        {% if post.codeurl %}{% if post.paperurl %} | {% endif %}<a href="{{ post.codeurl }}">Code</a>{% endif %}
+      </p>
+    </div>
   {% endfor %}
 {% endif %}
-
 

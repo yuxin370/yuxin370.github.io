@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Yuxin Tang's Home Page"
 title_separator          : "-"
 name                     : &name "Yuxin Tang"
-description              : &description "Master @ RUC"
+description              : &description "PhD Student @ RUC"
 url                      : https://yuxin370.github.io # the base hostname & protocol for your site e.g. "https://[yuxin370].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "latest.jpeg"
   name             : "Yuxin Tang"
   pronouns         : # example: "she/her"  
-  bio              : "Master @ RUC"
+  bio              : "PhD Student @ RUC"
   location         : "Haidian, Beijing, China"
   employer         : "Renmin University of China"
   uri              : # URL
@@ -215,7 +215,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true

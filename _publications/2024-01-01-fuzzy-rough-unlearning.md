@@ -2,7 +2,6 @@
 title: "Fuzzy Rough Unlearning Model for Feature Selection"
 collection: publications
 category: journals
-permalink: /publication/2024-01-01-fuzzy-rough-unlearning
 excerpt: "A fuzzy rough unlearning model for feature selection."
 date: 2024-01-01
 venue: "International Journal of Approximate Reasoning (IJAR)"

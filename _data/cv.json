@@ -1,27 +1,27 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Yuxin Tang",
+    "email": "yuxintang@ruc.edu.cn",
     "phone": "",
     "website": "https://yuxin370.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "PhD student in Computer Science at Renmin University of China. Research interests include database systems, data compression, and GPU acceleration.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Beijing",
+      "countryCode": "China",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0002-7479-4299"
+      },
+      {
+        "network": "ResearchGate",
+        "username": "Yuxin Tang",
+        "url": "https://www.researchgate.net/profile/Yuxin-Tang-10"
       },
       {
         "network": "GitHub",
@@ -33,29 +33,29 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Renmin University of China",
+      "area": "Ph.D. in Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2024-09",
+      "endDate": "Present",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "CWI",
+      "area": "Visiting PhD Student",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2026-03",
+      "endDate": "2026-06",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Renmin University of China",
+      "area": "B.S. in Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2020-09",
+      "endDate": "2024-06",
       "gpa": null,
       "courses": []
     }

@@ -2,7 +2,6 @@
 title: "Enabling Efficient Update on Rule-Based Compressed Graph"
 collection: publications
 category: conferences
-permalink: /publication/2026-06-01-compressed-graph-updates
 excerpt: "A study on efficient update support for rule-based compressed graphs."
 date: 2026-06-01
 venue: "Proceedings of the ACM on Management of Data (SIGMOD)"
