@@ -23,6 +23,8 @@ Publications
 
 Honors and Awards
 ======
+* Renmin University of China Qiu Shi Academic-Dongliang Program, Selected Awardee (中国人民大学求是学术-栋梁项目), 2026
+* China Association for Science and Technology (CAST) Young Sci-Tech Talent Development Program, PhD Student Special Program, Selected Fellow (中国科协青年科技人才培育工程博士生专项计划), 2025
 * BYD Scholarship, 2025
 * Outstanding Graduates, Beijing, China, 2024
 * Special Scholarship for Outstanding Academic Achievement, 2023
