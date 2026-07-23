@@ -132,6 +132,21 @@
   font-size: $type-size-5;
 }
 
+.author__name-zh {
+  margin: 0;
+  color: var(--global-text-color);
+  font-family: "FZShouJinShu-S10S", "ShouJinTi", "STKaiti", "KaiTi", "Kaiti SC", "Songti SC", serif;
+  font-size: $type-size-5;
+  font-weight: 300;
+  line-height: 1.2;
+  letter-spacing: 0.08em;
+
+  @include breakpoint($large) {
+    margin-top: -4px;
+    margin-bottom: 10px;
+  }
+}
+
 .sidebar .author__desktop {
   display: none;
   @media screen and (min-width: 1024px) {
