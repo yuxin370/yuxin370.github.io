@@ -33,7 +33,7 @@ My research interests lie in database systems, data compression, and GPU acceler
 - **DBDBD 2025** “FastLanes for ML: GPU Decoding with PyTorch Images”, **Yuxin Tang**, Feng Zhang, Peter Boncz. CWI, Amsterdam, The Netherlands. [abstract](https://dbdbd2025.uantwerpen.be/wp-content/uploads/2025/12/dbdbd25_17.pdf)
 
 ## Honors and Awards
-- Renmin University of China Qiu Shi Academic-Dongliang Program, Selected Awardee, 2026
+<!-- - Renmin University of China Qiu Shi Academic-Dongliang Program, Selected Awardee, 2026 -->
 - China Association for Science and Technology (CAST) Young Sci-Tech Talent Development Program, PhD Student Special Program, Selected Fellow, 2025
 - BYD Scholarship, 2025
 - Outstanding Graduates, Beijing, China, 2024
